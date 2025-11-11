@@ -25,6 +25,17 @@
 [Вікторія Стрілець, Analytics Team Lead at Howly](https://us02web.zoom.us/rec/play/KpGnAq3VLVUS5XATODUzxEPlXhZ8mzB7i_nvId1VucEY0LgAzMb6F1LJJ8xUXvXWTIoRQB2ATzpcA6yU.npfVDJcibHGeYkCk?eagerLoadZvaPages=&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FefFVGGLF4ZMn0zxSzARrLWgnfz3igrStY1ZFlH8_Ek5Hdts5fdL0uRDn4qZAm0Rs.si5MhdcpTNH5Hbq_)  
 [Презентація](https://github.com/OlhaHaidash/Useful-resources/blob/main/Materials/Analytics_Intensive_%D0%AF%D0%BA_%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B8_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D1%96_%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%D1%96%D1%8F.pdf)
 
+#### Day 6 (10.11)
+[Дмитро Чорний, Product Manager at Leaply. Презентація](https://github.com/OlhaHaidash/Useful-resources/blob/main/Materials/Marketing%20analytics_Chornyi%20Dmytro.pdf)  
+
+[Заміна: Дмитро Гущин, Product Analyst у Storyby by SKELAR. Маркетингова аналітика](https://us02web.zoom.us/rec/share/0gAuWVcdM1I2MkDbZ-8a50WZ1zQFDyT2_aEbATACCU1N97U3PgZoMQHMhAq8NOuK.xMJt-lAdjL5x9mcj)  
+[Презентація](https://github.com/OlhaHaidash/Useful-resources/blob/main/Materials/Marketing%20analytics%20_%20Dmytro%20Hushchin%20_%20Storyby%20(1).pdf)
+
+#### Day 7 (11.11)
+[Віталія Гребнєва, СРО at Liven]()  
+[Як запустити новий бізнес в умовах обмежених ресурсів: від створення команди до стрімкого зростання](https://speka.ua/business/yak-zapustiti-novii-biznes-v-umovax-obmezenix-resursiv-vid-stvorennya-komandi-do-strimkogo-zrostannya-pok6zq)
+
+
 
 []()
 
