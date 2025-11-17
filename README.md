@@ -32,8 +32,24 @@
 [Презентація](https://github.com/OlhaHaidash/Useful-resources/blob/main/Materials/Marketing%20analytics%20_%20Dmytro%20Hushchin%20_%20Storyby%20(1).pdf)
 
 #### Day 7 (11.11)
-[Віталія Гребнєва, СРО at Liven]()  
+[Віталія Гребнєва, СРО at Liven](https://us02web.zoom.us/rec/play/HAEA9EK94dNwjEhL7gM4mJMUghJImkjjEW1Z0RVNJZyA1DTsfWg9xiEH2Hpyad6mq7FLPM6vJqwZbg_a.qy_xFMS3On3joBn6?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2F-t42zs52tcFKjWggucFdbSfhgtZGjp3iFNq4hXnC5I9UAXBztOD8qLV1rFw8O2aL.afnwSKh0KkNgOmQH)  
 [Як запустити новий бізнес в умовах обмежених ресурсів: від створення команди до стрімкого зростання](https://speka.ua/business/yak-zapustiti-novii-biznes-v-umovax-obmezenix-resursiv-vid-stvorennya-komandi-do-strimkogo-zrostannya-pok6zq)
+
+#### Day 8 (12.11)
+[Олегом Парандієм Chief Analyst at TENTENS Tech](https://us02web.zoom.us/rec/share/uhN6Ns8zY4ve-MLiLkqQmB0I3mAiXwyT6eZKUxJuOyzc-nlLFSHnHOd6sdUlh7jJ.2queiIHVU6tHtRBR)  
+[Навіщо бізнесу аналітик та коли він стає драйвером позитивних змін](https://speka.ua/business/navishho-biznesu-analitik-ta-koli-vin-staje-draiverom-pozitivnix-zmin-pok4en?)  
+[Презентація](https://github.com/OlhaHaidash/Useful-resources/blob/main/Product%20analytics%20lection_Vitaliia%20Hrebnieva.pptx.pdf)
+
+#### Day 9 (13.11)
+- Валентин Бєлоокий, CMO PawChamp by SKELAR  
+- Володимир Марушевський, Data Analyst at GDx by SKELAR  
+- Володимир Алєксєйченко, CMO at Storyby by SKELAR  
+- Дмитро Гущин, Product Analyst at Storyby by SKELAR  
+[Панельна дискусія](https://us02web.zoom.us/rec/share/9nq7BjI75M8eez2xm49I1f3bwFhhcvh1nAhWBr1ju-9yTp-KpCWb3uGJwehF6YWN.lHykTq2SKNwwU9J2)
+
+#### Day 10 (14.11)
+[Вадим Довготелес, Senior Product Analyst & Analytics Team Lead at Brighterly, ярмарок вакансій та бріфінг на тестове](https://us02web.zoom.us/rec/share/gg0kjs99PG-Spn0hBwZYo2L0zwqBFCU5E9bZKQSbFgrlE8aQcHQ0vIAWCVe8Qqkx.y9NimRpQ11gqU9UZ)  
+[Презентація](https://github.com/OlhaHaidash/Useful-resources/blob/main/%D0%92%D0%B0%D0%B4%D0%B8%D0%BC_%D0%94%D0%BE%D0%B2%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D0%B5%D1%81_%D0%9C%D0%B0%D0%BF%D0%B0_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D1%85_%D1%80%D0%BE%D0%BB%D0%B5%D0%B8%CC%86_%D1%8F%D0%BA_%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8_%D1%81%D0%B2%D1%96%D0%B8%CC%86_%D1%88%D0%BB%D1%8F%D1%85_%D1%83.pdf)
 
 
 
@@ -68,6 +84,15 @@
 
 ### АВ-тести:
 [Як провести своє перше А/В-тестування](https://dou.ua/forums/topic/49054/)
+
+Презентації бізнесів:  
+[1](https://github.com/OlhaHaidash/Useful-resources/blob/main/Brighterly%20deck%20for%20Max.pdf)  
+[2](https://github.com/OlhaHaidash/Useful-resources/blob/main/Howly%20Presentation.pdf)  
+[3](https://github.com/OlhaHaidash/Useful-resources/blob/main/MaxBeauty%20--%20Analytics%20Intensive%20(14.11.2025).pdf)  
+[4](https://github.com/OlhaHaidash/Useful-resources/blob/main/PawChamp.pdf)  
+[5](https://github.com/OlhaHaidash/Useful-resources/blob/main/RIseGuide%20Intro%20MS.pdf)  
+[6](https://github.com/OlhaHaidash/Useful-resources/blob/main/Spirio%20by%20SKELAR%20External%20pitchdeck.pdf)  
+[7](https://github.com/OlhaHaidash/Useful-resources/blob/main/Storyby%20_%20Schools%20_%20Hushchin.pdf)
 
 ### LTV:
 [Як спрогнозувати LTV юзера в перший день його життя](https://dou.ua/forums/topic/45000/)  
